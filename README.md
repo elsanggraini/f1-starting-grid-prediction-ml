@@ -101,9 +101,4 @@ Major technical regulation changes in 2026 may significantly affect real-world r
 ---
 
 ## 🛠️ Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50"/>
-<img src="https://image2url.com/r2/default/images/1768403793348-ae168673-02cb-449a-b41e-44e0361eeca7.png" alt="gambar" loading="lazy" />
-- pandas
-- scikit-learn
-- matplotlib
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50"/> <img src="fastf1.png" height="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50"/>
